@@ -305,12 +305,12 @@ font-size: 10px;
  font-size: 15px;   
 }
 
-div.avatar-large,
+.div.avatar-large,
 .avatar-large .status {
     border-radius: 75px!important;
 }
 
-div.avatar-small,
+.div.avatar-small,
 .avatar-small .status {
     border-radius: 75px!important;
 }
